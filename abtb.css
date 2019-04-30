@@ -1,0 +1,65 @@
+body {
+	font-family: "Courier New", Courier, monospace;
+	text-align: center;
+   -webkit-print-color-adjust:exact;
+}
+
+.xSm {
+	font-size: x-small;
+}
+
+.Sm {
+	font-size: x-small;
+}
+
+.Med {
+	font-size: medium;
+}
+.Lg {
+	font-size: large;
+	text-align: center;
+}
+.XL {
+	font-size: x-large;
+	text-align: center;
+}
+.XXL {
+	font-size: xx-large;
+	color: #000;
+}
+
+.Disabled {
+	color: #CCCCCC;
+}
+
+.Editorial {
+	color: #008800;
+}
+
+.Highlight {
+	color: #FF0000;
+}
+
+.Updated {
+	font-size: x-small;
+	color: #CCCCCC;
+}
+.XXLstrongBlue {
+	color: #00F;
+	font-size: xx-large;
+	font-weight: bold;
+}
+
+.White {
+	color: #FFF;
+	font-weight: bold;
+}
+
+.center-div {
+     margin: 0 auto;
+     width: 640px; 
+}
+
+.PropSpace {
+    font-family: "Times New Roman", serif;
+}
